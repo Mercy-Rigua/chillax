@@ -6,7 +6,7 @@ This is a website you could use to get information about Chillax zone resort. It
 ## Setup/Installation Requirements
 * HTML Language
 * A text editor
-* Some images/pictures if the resort
+* Some images/pictures of the resort
 
 Be sure to have a text editor, I recommend atom.
 ## Known Bugs
